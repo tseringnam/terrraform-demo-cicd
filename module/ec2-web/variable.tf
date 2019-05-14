@@ -4,6 +4,6 @@ variable "instance_type" {
 }
 
 variable "ami" {
-  default = "ami-bf5540df"
+  default = "ami-03336a84d8d0743dc"
 }
 
